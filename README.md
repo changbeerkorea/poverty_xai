@@ -1,5 +1,5 @@
-## What affects the poverty and how human can intervene?  
-# SNU GSDS Capstone project on Costa Rica Poverty Dataset
+# What affects the poverty and how human can intervene?  
+## SNU GSDS Capstone project on Costa Rica Poverty Dataset
 ![intro](https://user-images.githubusercontent.com/45656663/101605090-1f775200-3a45-11eb-9977-277be10e5f54.png)
 
 ---
